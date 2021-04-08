@@ -745,16 +745,19 @@ h4 {
 
 .portfolio-row {
     margin-bottom: 50px;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 .col-sm-6{
-    width: 290px;
-    height: 370px; 
+    width: 300px;
+    height: 380px; 
     margin: auto;
 }
 
 
 .image{
+    width: 250px;
+    
+    
     
 box-shadow:8px 6px 5px rgb(27, 27, 27) ;
 }
