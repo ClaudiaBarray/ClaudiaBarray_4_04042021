@@ -744,8 +744,22 @@ h4 {
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.col-sm-6{
+    width: 290px;
+    height: 370px; 
+    margin: auto;
+}
+
+
+.image{
+    
+box-shadow:8px 6px 5px rgb(27, 27, 27) ;
+}
+.text-center{
+    margin-bottom: 20px;
 }
 
 .avatar {
