@@ -1,0 +1,10 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Group 2
+User-agent: *
+Allow: /
+
+#sitemap
+Sitemap: https://claudiabarray.github.io/ClaudiaBarray_4_04042021/sitemap.xml
