@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #f8f7f6 !important;
+    color: rgb( 14,0,83) !important;
 }
 
 .btn-atomic-tangerine {
@@ -798,7 +798,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #f3976c !important;
+    color:rgb( 14,0,83) ; 
 }
 
 .ltc-atomic-tangerine:hover {
@@ -817,6 +817,8 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
+
+
 
 @media (max-width: 1024px) {
     .bloc {
